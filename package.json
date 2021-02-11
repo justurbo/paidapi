@@ -1,0 +1,7 @@
+{
+  "name": "paidapi",
+  "scripts": {
+    "server": "npm --prefix ./backend start",
+    "install": "npm --prefix ./backend install"
+  }
+}
