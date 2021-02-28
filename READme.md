@@ -1,6 +1,7 @@
 # Running React.js and Node.js concurrently
 1. Make sure you are in paidapi\ directory
-2. Run application with the command: npm run dev
+2. Run application with the command: 
+> npm run dev
 
 # PyCharm local environment setup
 1. Download [Node 14.5.5](https://nodejs.org/en/download/releases/)
