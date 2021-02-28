@@ -7,6 +7,16 @@
     "install": "npm --prefix ./backend install"
   },
   "devDependencies": {
-    "concurrently": "^6.0.0"
+    "concurrently": "^6.0.0",
+    "eslint": "^7.21.0",
+    "eslint-plugin-react": "^7.22.0",
+    "husky": "^5.1.1",
+    "prettier": "2.2.1",
+    "pretty-quick": "^3.1.0"
+  },
+  "husky": {
+    "hooks": {
+        "pre-commit": "pretty-quick --staged"
+    }
   }
 }
