@@ -3,7 +3,7 @@
 2. Run application with the command: 
 > npm run dev
 
-# PyCharm local environment setup
+# WebStorm local environment setup
 1. Download [Node 14.5.5](https://nodejs.org/en/download/releases/)
 2. Add npm configuration to run frontend and backend applications
 3. If database is not setup, skip to **Mongo database setup**
