@@ -16,7 +16,11 @@
   },
   "husky": {
     "hooks": {
-        "pre-commit": "pretty-quick --staged"
+      "pre-commit": "pretty-quick --staged"
     }
+  },
+  "dependencies": {
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0"
   }
 }
